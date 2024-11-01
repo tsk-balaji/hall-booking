@@ -3,7 +3,7 @@ const hallBookings = express();
 hallBookings.use(express.json());
 
 hallBookings.listen("3000", "0.0.0.0", () => {
-  console.log("Server Started");
+  console.log("Web Service is Live");
 });
 
 let rooms = [];
