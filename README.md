@@ -1,5 +1,9 @@
 # Hall Booking API Documentation
 
+[![View Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/37150268/2sAY4x9Lto)
+
+&nbsp;
+
 [View Documentation](https://documenter.getpostman.com/view/37150268/2sAY4x9Lto)
 
 ## API Endpoints
