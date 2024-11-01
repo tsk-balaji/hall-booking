@@ -96,6 +96,7 @@ hallBookings.get("/bookings/customers", (req, res) => {
       const room = rooms.find((room) => room.id === roomId);
       return {
         customerName,
+        roomId,
         roomName: room ? room.name : "Unknown",
         date,
         startTime,
